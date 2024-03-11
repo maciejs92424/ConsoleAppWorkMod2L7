@@ -14,7 +14,7 @@ namespace ConsoleAppWorkMod2L7
         static void Main(string[] args)
         {
             Console.WriteLine("Tasks from module 2 lesson 7");
-        label1:
+            label1:
             Console.WriteLine("1. Comparison of created numbers");
             Console.WriteLine("2. Parity - even or odd number");
             Console.WriteLine("3. Positive or negative number");
